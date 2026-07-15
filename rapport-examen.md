@@ -100,3 +100,6 @@ Question 6 — Dépôt GitHub public
 
 Comme defini au point 6, je n'ai pas pus me connecté a N0C parce qu'une mauvaise manoeuvre de ma part m'a mis en timeout pendant la duree de l'examen, je n'ai donc pas pus completer cette partie, j'ai perdu environ 45 minutes a tenter de le faire fonctionner.
 Je suis toujours en timeout au moment d'ecrire ces lignes.
+
+Edit : il est 15h27, je viens de me lever.
+ Le timeout semble terminé et j'ai maintenant acces. Je clone donc mon repo sur n0c. yay
